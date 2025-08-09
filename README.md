@@ -1,4 +1,4 @@
-## 👋 Hello There, I am Meet Sanghvi!
+# 👋 Hello There, I am Meet Sanghvi!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/relatable_aaadmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meet-sanghvi-8a9969270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetsanghvi2347@gmail.com) 
