@@ -1,4 +1,4 @@
-## 👋 Hello There, I am Meet Sanghvi!
+# 👋 Hello There, I am Meet Sanghvi!
 
 🚀 Exploring New Tech Fields  
 💻 Strong in Software Development
