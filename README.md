@@ -1,7 +1,7 @@
 # 👋 Hello There, I am Meet Sanghvi!
 
 🚀 Exploring New Tech Fields  
-💻 Strong in Software Development
+💻 Strong in Software Development  
 🧠 Interested in solving real-world problems  
 📚 Final Year Student – Computer Science Branch  
 ⚡ Fast learner and adaptive to new technologies  
