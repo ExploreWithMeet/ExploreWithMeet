@@ -22,10 +22,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ExploreWithMeet&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ExploreWithMeet&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploreWithMeet&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ExploreWithMeet&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ExploreWithMeet&icon=0&color=4)](https://visitcount.itsvg.in)
-
